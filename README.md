@@ -202,41 +202,6 @@ The notebook generates a model comparison table and ROC curves to help identify 
 
 **Note:** Actual performance may vary depending on the training configuration and execution environment.
 
-## 🚀 How to Run This Project
-
-### Step 1: Clone the Repository
-
-```bash
-git clone https://github.com/Mant-0957/Deep_Learning_PR2.git
-```
-
-### Step 2: Navigate to the Project Folder
-
-```bash
-cd Deep_Learning_PR2
-```
-
-### Step 3: Install Required Libraries
-
-```bash
-pip install tensorflow scikit-learn pandas numpy matplotlib seaborn
-```
-
-### Step 4: Open the Jupyter Notebook
-
-```bash
-jupyter notebook deep_Learn_PR2.ipynb
-```
-
-Alternatively, open the notebook directly using Google Colab.
-
-### Step 5: Add the Dataset
-
-Make sure `adult.csv` is available in the same working directory as the notebook.
-
-### Step 6: Execute the Notebook
-
-Run all cells sequentially to perform preprocessing, ANN training, experiments, evaluation, and model comparison.
 
 ## 📁 Project Structure
 
@@ -280,8 +245,3 @@ Through this practical, I explored:
 - GitHub: [Mant-0957](https://github.com/Mant-0957)
 - Project Repository: [Deep_Learning_PR2](https://github.com/Mant-0957/Deep_Learning_PR2)
 
----
-
-⭐ If you find this project useful, consider giving the repository a star!
-
-**Thank you for visiting this project!**
